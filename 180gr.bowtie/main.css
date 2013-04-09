@@ -1,0 +1,21 @@
+/* MARIO ANDREI 180gr Bowtie Theme*/
+
+body {
+	-webkit-transition: 0.5s ease-out;	
+	
+}
+
+.container {
+	width: 400px;
+	height: 150px;
+	overflow: hidden;
+	border-radius: 5px;
+	box-shadow:0px 0px 8px #000000;
+	background-color: rgba(92,222,22,255);
+	text-overflow: ellipsis;
+
+	
+}
+
+
+
