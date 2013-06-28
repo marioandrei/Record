@@ -7,15 +7,54 @@ body {
 
 .container {
 	width: 400px;
-	height: 150px;
+	height: 180px;
 	overflow: hidden;
 	border-radius: 5px;
-	box-shadow:0px 0px 8px #000000;
+	box-shadow:0 0 8px #000000;
+	background-color: rgb(92,222,22);
 	background-color: rgba(92,222,22,255);
 	text-overflow: ellipsis;
 
 	
 }
 
+#vinyl{
+ background-color: rgba(192,22,22,255);
 
+
+}
+
+.biopic{
+	width: 300px;
+	height: 200px;
+}
+
+.liner_notes{
+	background-color: rgb(255,255,255);
+}
+
+
+#artist{
+	display: block;
+	height: 180px;
+	width: 180px;
+	background-color: rgb(12,12,12);
+	float: right;
+}
+.text{
+	display: block;
+	height: 180px;
+	width: 180px;
+	background-color: rgb(125,12,12);
+	float: left;
+	color: white;
+}
+#art{
+	//display: block;
+	//height: 80px;
+	width: 80px;
+	padding: 20px;
+	background-color: rgb(12,12,12);
+	float: right;
+	}
 
